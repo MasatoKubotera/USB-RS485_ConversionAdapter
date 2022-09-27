@@ -1,4 +1,4 @@
-Partlist exported from C:/Users/Masato/Desktop/USB-RS485_ConversionAdapter/USB-RS485_ConversionAdapter_ver2_1.sch at 2022/09/14 0:39
+Partlist exported from C:/Users/Masato/Desktop/USB-RS485_ConversionAdapter_ver2_1/USB-RS485_ConversionAdapter_ver2_1.sch at 2022/09/28 3:23
 
 Qty Value          Device         Package        Parts                  Description                
 4                  LEDSML0603     SML0603        LED1, LED2, LED3, LED4 LED                        
