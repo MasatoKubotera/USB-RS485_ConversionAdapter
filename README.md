@@ -209,7 +209,7 @@
               <tr>
                 <td> IC1 </td>
                 <td> 1 </td>
-                <td> ADM3078E </td>
+                <td> ADM3078E<sup>*1</sup> </td>
                 <td> <a href="https://www.mouser.jp/ProductDetail/Analog-Devices/ADM3078EARZ?qs=BpaRKvA4VqGLm2ZAElC2YA%3D%3D">Mouser</a> </td>
                 <td> RS-485/RS-422 Transceiver (Half Duplex, 16 Mbps, DE/RE) </td>
               </tr>
@@ -228,7 +228,8 @@
                 <td> Rocker Switches 125VAC 5A </td>
               </tr>
             </tbody>
-          </table>          
+          </table>
+          <strong>*1</strong> : Since the <a href="https://www.mouser.jp/ProductDetail/Analog-Devices/ADM3078EARZ?qs=BpaRKvA4VqGLm2ZAElC2YA%3D%3D">ADM3078E</a> from Analog Devices was not available at the time of fabrication, the <a href="https://akizukidenshi.com/catalog/g/gI-16211//">MAX3485ED</a> from HTC Korea was used as an alternative.
         <h3>PCB Fabrication</h3>
           PCB(Printed Circuit Board) manufacturing was outsourced to <a href="https://www.elecrow.com/pcb-manufacturing.html">Elecrow</a>.<br>
           The custom specifications are as follows.
